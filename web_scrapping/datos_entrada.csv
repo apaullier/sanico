@@ -1,0 +1,20 @@
+retiro,entrega,tamano,cantidad_de_paquetes,opcion_de_entrega,cantidad_de_asistentes
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,1,express,1
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,1,coordinado,2
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,1,express,3
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,2,coordinado,4
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,2,express,5
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,2,coordinado,1
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,3,express,2
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,3,coordinado,3
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,3,express,4
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,4,coordinado,5
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,4,express,1
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,4,coordinado,2
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,5,express,3
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,5,coordinado,4
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,5,express,5
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,6,coordinado,1
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",medium,6,express,2
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",large,6,coordinado,3
+"Arocena, Montevideo, Uruguay","Mantua, Montevideo, Uruguay",small,7,express,4

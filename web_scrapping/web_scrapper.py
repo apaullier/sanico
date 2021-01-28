@@ -1,4 +1,3 @@
-import regex as re
 import selenium.webdriver as webdriver
 import time
 
@@ -91,6 +90,8 @@ def get_results(search):
         browser.find_element_by_xpath("//div[@id='estimate_form_container']/div[2]/div[14]/div/label[1]").click()
     elif search["opcion_de_entrega"]=="coordinado":
         browser.find_element_by_xpath("//div[@id='estimate_form_container']/div[2]/div[14]/div/label[2]").click()
+    else:
+        raise Exception('Valor no válido')
 
     ### Ingresar cantidad de asistentes:
     if search["cantidad_de_asistentes"]>=0 and search["cantidad_de_asistentes"]<=5:
@@ -100,26 +101,6 @@ def get_results(search):
         raise Exception('Valor no válido')
 
     time.sleep(1)
-    precio_txt = browser.find_element_by_id("estimate_value_label").text
-    patron = re.compile('(?<=\$)\s(.*?)\s(?=IVA)')
-    precio = patron.match(precio_txt)
-    print(f"""
-    Latitud de retiro es: {lat_retiro}
-    Longitud de retiro es: {lng_retiro}
-    Latitud de entrega es: {lat_entrega}
-    Longitud de entrega es: {lng_entrega}
-    Kilómetros: {km}
-    El precio del envío es de {precio}
-    """)
-    time.sleep(1)
+    precio = browser.find_element_by_id("estimate_value_label").text
 
-search = {
-    "retiro":"Sir Eugen Millington Drake, Montevideo, Uruguay",
-    "entrega":"Mantua, Montevideo, Uruguay",
-    "tamano":"medium",
-    "cantidad_de_paquetes":7,
-    "opcion_de_entrega": "express",
-    "cantidad_de_asistentes":3
-}
-
-get_results(search)
+    return [lat_retiro, lng_retiro, lat_entrega, lng_entrega, km, precio]
