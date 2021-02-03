@@ -117,7 +117,7 @@ search = {
     "retiro":"Sir Eugen Millington Drake, Montevideo, Uruguay",
     "entrega":"Mantua, Montevideo, Uruguay",
     "tamano":"medium",
-    "cantidad_de_paquetes":7,
+    "cantidad_de_paquetes":2,
     "opcion_de_entrega": "express",
     "cantidad_de_asistentes":3
 }
