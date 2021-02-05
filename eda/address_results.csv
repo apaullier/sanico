@@ -1,0 +1,301 @@
+,retiro,entrega,tamano,opcion_de_entrega,cantidad_de_paquetes,cantidad_de_asistentes,lat_retiro,lng_retiro,lat_entrega,lng_entrega,km,precio
+0,Brito del pino 1491 Montevideo Uruguay,"Eulogio Caballero, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8535167,-56.2452851,9.777323024913034,1528
+1,Brito del pino 1491 Montevideo Uruguay,"19 de abril 1213, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8443465,-56.250894,10.78932207449151,1253
+2,Brito del pino 1491 Montevideo Uruguay,"Copacabana 6808, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8838262,-56.0466473,10.316145890570759,1473
+3,Brito del pino 1491 Montevideo Uruguay,"Galicia 1224, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.9002335,-56.1903221,3.063031653965184,423
+4,Brito del pino 1491 Montevideo Uruguay,"Doctor Prudencio de Pena, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8989865,-56.1578912,0.48222136270565036,314
+5,Brito del pino 1491 Montevideo Uruguay,"Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8941222,-56.0595102,8.969372768231928,1033
+6,Brito del pino 1491 Montevideo Uruguay,"Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8938637,-56.1591115,1.0612880527763606,314
+7,Brito del pino 1491 Montevideo Uruguay,"Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8434359,-56.1924935,7.38842246321802,1308
+8,Brito del pino 1491 Montevideo Uruguay,"Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8642481,-56.2077112,6.342220018931865,1198
+9,Brito del pino 1491 Montevideo Uruguay,"Los Nogales, Montevideo Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8029901,-56.1143293,11.790028924353303,1027
+10,Brito del pino 1491 Montevideo Uruguay,"Paysandú, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.901975,-56.1895067,2.973350408162762,423
+11,Brito del pino 1491 Montevideo Uruguay,"Himalaya, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8681349,-56.1491542,3.9637483273177034,1088
+12,Brito del pino 1491 Montevideo Uruguay,"Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8535167,-56.2452851,9.777323024913034,1473
+13,Brito del pino 1491 Montevideo Uruguay,"Cooper, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8700236,-56.0694155,8.81627513940839,1418
+14,Brito del pino 1491 Montevideo Uruguay,"Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8542084,-56.1264252,6.119381156252418,1308
+15,Brito del pino 1491 Montevideo Uruguay,"Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.9153352,-56.1673733,1.6393353992933961,924
+16,Brito del pino 1491 Montevideo Uruguay,"Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8988864,-56.1440372,1.2818422901715987,979
+17,Brito del pino 1491 Montevideo Uruguay,"Hocquart, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8902774,-56.1800759,2.553891042063781,979
+18,Brito del pino 1491 Montevideo Uruguay,"Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8562398,-56.1393665,5.461423993722619,1198
+19,Brito del pino 1491 Montevideo Uruguay,"Escalada, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8525727,-56.2005685,6.891472792524369,1308
+20,Brito del pino 1491 Montevideo Uruguay,"Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8485567,-56.233298,9.24603623558129,808
+21,Brito del pino 1491 Montevideo Uruguay,"Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8819445,-56.1812809,3.243361827708675,1088
+22,Brito del pino 1491 Montevideo Uruguay,"Rizal, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.9009529,-56.1352843,2.002472123493177,979
+23,Brito del pino 1491 Montevideo Uruguay,"Chamizo, Montevideo, Uruguay",small,express,2,1,-34.9032725,-56.1570123,-34.8889171,-56.1212496,3.6361442267601523,1088
+24,"Eulogio Caballero, Montevideo Uruguay","19 de abril 1213, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8443465,-56.250894,1.1393320214706664,1143
+25,"Eulogio Caballero, Montevideo Uruguay","Copacabana 6808, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8838262,-56.0466473,18.470838050269016,1467
+26,"Eulogio Caballero, Montevideo Uruguay","Galicia 1224, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.9002335,-56.1903221,7.218766198003945,1363
+27,"Eulogio Caballero, Montevideo Uruguay","Doctor Prudencio de Pena, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8989865,-56.1578912,9.449117732054006,1528
+28,"Eulogio Caballero, Montevideo Uruguay","Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8941222,-56.0595102,17.57224904730428,1692
+29,"Eulogio Caballero, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8938637,-56.1591115,9.061385402128874,1582
+30,"Eulogio Caballero, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8434359,-56.1924935,4.955944664326704,1253
+31,"Eulogio Caballero, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8642481,-56.2077112,3.6363386664519917,1143
+32,"Eulogio Caballero, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8029901,-56.1143293,13.226149404785405,1143
+33,"Eulogio Caballero, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.901975,-56.1895067,7.409771137285997,1363
+34,"Eulogio Caballero, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8681349,-56.1491542,8.938786415696981,1528
+35,"Eulogio Caballero, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8535167,-56.2452851,0.0,924
+36,"Eulogio Caballero, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8700236,-56.0694155,16.18569083520953,1967
+37,"Eulogio Caballero, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8542084,-56.1264252,10.870028602343755,1692
+38,"Eulogio Caballero, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.9153352,-56.1673733,9.887445137057732,1582
+39,"Eulogio Caballero, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8988864,-56.1440372,10.536543418670899,1582
+40,"Eulogio Caballero, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8902774,-56.1800759,7.223432094678465,1363
+41,"Eulogio Caballero, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8562398,-56.1393665,9.690864541772175,1582
+42,"Eulogio Caballero, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8525727,-56.2005685,4.0907219667199035,1143
+43,"Eulogio Caballero, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8485567,-56.233298,1.2266061376755404,314
+44,"Eulogio Caballero, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8819445,-56.1812809,6.647886131987248,1308
+45,"Eulogio Caballero, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.9009529,-56.1352843,11.350416512504975,1692
+46,"Eulogio Caballero, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8889171,-56.1212496,12.001436219852733,1692
+47,"19 de abril 1213, Montevideo Uruguay","Copacabana 6808, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8838262,-56.0466473,19.18277008273805,1692
+48,"19 de abril 1213, Montevideo Uruguay","Galicia 1224, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.9002335,-56.1903221,8.313262736908493,1088
+49,"19 de abril 1213, Montevideo Uruguay","Doctor Prudencio de Pena, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8989865,-56.1578912,10.442686083355609,1253
+50,"19 de abril 1213, Montevideo Uruguay","Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8941222,-56.0595102,18.349428471834916,1473
+51,"19 de abril 1213, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8938637,-56.1591115,10.030061682517571,698
+52,"19 de abril 1213, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8434359,-56.1924935,5.342335214140511,924
+53,"19 de abril 1213, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8642481,-56.2077112,4.52433317325392,924
+54,"19 de abril 1213, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8029901,-56.1143293,13.309212055815774,1418
+55,"19 de abril 1213, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.901975,-56.1895067,8.507290071317323,533
+56,"19 de abril 1213, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8681349,-56.1491542,9.67089504567611,1198
+57,"19 de abril 1213, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8535167,-56.2452851,1.1393320214706664,478
+58,"19 de abril 1213, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8700236,-56.0694155,16.83826826449779,1582
+59,"19 de abril 1213, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8542084,-56.1264252,11.435778344514484,753
+60,"19 de abril 1213, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.9153352,-56.1673733,10.969208821573172,1363
+61,"19 de abril 1213, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8988864,-56.1440372,11.491806696170878,1308
+62,"19 de abril 1213, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8902774,-56.1800759,8.239730909467914,1088
+63,"19 de abril 1213, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8562398,-56.1393665,10.284634248962037,1253
+64,"19 de abril 1213, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8525727,-56.2005685,4.6921788678156,924
+65,"19 de abril 1213, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8485567,-56.233298,1.6757105736765148,1088
+66,"19 de abril 1213, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8819445,-56.1812809,7.610266488440625,1033
+67,"19 de abril 1213, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.9009529,-56.1352843,12.294858266187585,1363
+68,"19 de abril 1213, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8443465,-56.250894,-34.8889171,-56.1212496,12.844072122063888,1308
+69,"Copacabana 6808, Montevideo Uruguay","Galicia 1224, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.9002335,-56.1903221,13.258551055626521,1802
+70,"Copacabana 6808, Montevideo Uruguay","Doctor Prudencio de Pena, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8989865,-56.1578912,10.306798550673912,1528
+71,"Copacabana 6808, Montevideo Uruguay","Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8941222,-56.0595102,1.6392722621035334,1528
+72,"Copacabana 6808, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8938637,-56.1591115,10.340646262625716,1473
+73,"Copacabana 6808, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8434359,-56.1924935,14.068718587282932,1747
+74,"Copacabana 6808, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8642481,-56.2077112,14.885037374083263,1747
+75,"Copacabana 6808, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8029901,-56.1143293,10.896829584136414,2186
+76,"Copacabana 6808, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.901975,-56.1895067,13.212648201124056,1692
+77,"Copacabana 6808, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8681349,-56.1491542,9.532062890484642,1473
+78,"Copacabana 6808, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8535167,-56.2452851,18.470838050269016,2022
+79,"Copacabana 6808, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8700236,-56.0694155,2.584113099227259,979
+80,"Copacabana 6808, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8542084,-56.1264252,8.000241803318302,1418
+81,"Copacabana 6808, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.9153352,-56.1673733,11.574748976737224,918
+82,"Copacabana 6808, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8988864,-56.1440372,9.057705304369126,1363
+83,"Copacabana 6808, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8902774,-56.1800759,12.218144335806185,972
+84,"Copacabana 6808, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8562398,-56.1393665,9.01301408706044,1418
+85,"Copacabana 6808, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8525727,-56.2005685,14.494477548407687,1802
+86,"Copacabana 6808, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8485567,-56.233298,17.5094643889002,1912
+87,"Copacabana 6808, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8819445,-56.1812809,12.309709948623413,1692
+88,"Copacabana 6808, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.9009529,-56.1352843,8.321891473167714,1363
+89,"Copacabana 6808, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8838262,-56.0466473,-34.8889171,-56.1212496,6.843054487962966,1253
+90,"Galicia 1224, Montevideo Uruguay","Doctor Prudencio de Pena, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8989865,-56.1578912,2.9673952551019247,1033
+91,"Galicia 1224, Montevideo Uruguay","Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8941222,-56.0595102,11.975703405054587,1198
+92,"Galicia 1224, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8938637,-56.1591115,2.9389437008729415,478
+93,"Galicia 1224, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8434359,-56.1924935,6.3041520694375395,1198
+94,"Galicia 1224, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8642481,-56.2077112,4.29703184702891,1088
+95,"Galicia 1224, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8029901,-56.1143293,12.832743597665806,1528
+96,"Galicia 1224, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.901975,-56.1895067,0.20707555013880044,869
+97,"Galicia 1224, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8681349,-56.1491542,5.181110264596706,1143
+98,"Galicia 1224, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8535167,-56.2452851,7.218766198003945,1308
+99,"Galicia 1224, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8700236,-56.0694155,11.549688208234148,1473
+100,"Galicia 1224, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8542084,-56.1264252,7.758641069793847,1308
+101,"Galicia 1224, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.9153352,-56.1673733,2.6843107405709565,1088
+102,"Galicia 1224, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8988864,-56.1440372,4.233059160043853,1143
+103,"Galicia 1224, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8902774,-56.1800759,1.4481288244720647,979
+104,"Galicia 1224, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8562398,-56.1393665,6.746998034635057,1308
+105,"Galicia 1224, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8525727,-56.2005685,5.369752964377649,1198
+106,"Galicia 1224, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8485567,-56.233298,6.950177897566468,1253
+107,"Galicia 1224, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8819445,-56.1812809,2.190816160019524,979
+108,"Galicia 1224, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.9009529,-56.1352843,5.031001705671901,1198
+109,"Galicia 1224, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.9002335,-56.1903221,-34.8889171,-56.1212496,6.437186454365552,588
+110,"Doctor Prudencio de Pena, Montevideo Uruguay","Rambla República de México, Montevideo Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8941222,-56.0595102,9.0084867181651,1033
+111,"Doctor Prudencio de Pena, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8938637,-56.1591115,0.57915871151693,369
+112,"Doctor Prudencio de Pena, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8434359,-56.1924935,6.92732384396714,698
+113,"Doctor Prudencio de Pena, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8642481,-56.2077112,5.966202610983205,1198
+114,"Doctor Prudencio de Pena, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8029901,-56.1143293,11.370400670190842,1027
+115,"Doctor Prudencio de Pena, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.901975,-56.1895067,2.9085686139211804,1033
+116,"Doctor Prudencio de Pena, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8681349,-56.1491542,3.514587907793498,1088
+117,"Doctor Prudencio de Pena, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8535167,-56.2452851,9.449117732054006,1473
+118,"Doctor Prudencio de Pena, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8700236,-56.0694155,8.702967140618899,1363
+119,"Doctor Prudencio de Pena, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8542084,-56.1264252,5.740468436603624,1308
+120,"Doctor Prudencio de Pena, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.9153352,-56.1673733,2.010097491544156,979
+121,"Doctor Prudencio de Pena, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8988864,-56.1440372,1.2663080170478147,979
+122,"Doctor Prudencio de Pena, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8902774,-56.1800759,2.2462059884565773,369
+123,"Doctor Prudencio de Pena, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8562398,-56.1393665,5.035592746691331,643
+124,"Doctor Prudencio de Pena, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8525727,-56.2005685,6.460420336281064,1308
+125,"Doctor Prudencio de Pena, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,,,,,,
+126,"Doctor Prudencio de Pena, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,,,,,,
+127,"Doctor Prudencio de Pena, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.9009529,-56.1352843,2.0777348240153963,478
+128,"Doctor Prudencio de Pena, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8989865,-56.1578912,-34.8889171,-56.1212496,3.5306351943906904,1088
+129,"Rambla República de México, Montevideo Uruguay","Ricaldoni, Montevideo Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8938637,-56.1591115,9.104175803047006,1088
+130,"Rambla República de México, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8434359,-56.1924935,13.3964000351122,1473
+131,"Rambla República de México, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8642481,-56.2077112,13.948304227023469,1363
+132,"Rambla República de México, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8029901,-56.1143293,11.284837178463514,1802
+133,"Rambla República de México, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.901975,-56.1895067,11.913736781517033,1198
+134,"Rambla República de México, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8681349,-56.1491542,8.687566104656845,1253
+135,"Rambla República de México, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8535167,-56.2452851,17.57224904730428,1637
+136,"Rambla República de México, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8700236,-56.0694155,2.8226546974077236,1473
+137,"Rambla República de México, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8542084,-56.1264252,7.552179025996583,1528
+138,"Rambla República de México, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.9153352,-56.1673733,10.135031483577231,423
+139,"Rambla República de México, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8988864,-56.1440372,7.744075331184074,1088
+140,"Rambla República de México, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8902774,-56.1800759,11.028887532043742,1198
+141,"Rambla República de México, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8562398,-56.1393665,8.424152204343105,1363
+142,"Rambla República de México, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8525727,-56.2005685,13.695740549982093,1473
+143,"Rambla República de México, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8485567,-56.233298,16.674252115139822,1582
+144,"Rambla República de México, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8819445,-56.1812809,11.213026713102247,1253
+145,"Rambla República de México, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.9009529,-56.1352843,6.96722336260244,478
+146,"Rambla República de México, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8941222,-56.0595102,-34.8889171,-56.1212496,5.672970274834405,1198
+147,"Ricaldoni, Montevideo Uruguay","Doctor Alberto Zubiría, Montevideo Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8434359,-56.1924935,6.372843976029703,1308
+148,"Ricaldoni, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8642481,-56.2077112,5.525907039507175,643
+149,"Ricaldoni, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8029901,-56.1143293,10.881496562368323,1692
+150,"Ricaldoni, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.901975,-56.1895067,2.9202630523791115,478
+151,"Ricaldoni, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8681349,-56.1491542,2.9959535919544606,1033
+152,"Ricaldoni, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8535167,-56.2452851,9.061385402128874,1528
+153,"Ricaldoni, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8700236,-56.0694155,8.615896140101748,1308
+154,"Ricaldoni, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8542084,-56.1264252,5.318318929498245,1253
+155,"Ricaldoni, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.9153352,-56.1673733,2.4988353290921577,1033
+156,"Ricaldoni, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8988864,-56.1440372,1.4862442584846018,979
+157,"Ricaldoni, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8902774,-56.1800759,1.9571766910987227,1033
+158,"Ricaldoni, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8562398,-56.1393665,4.547584155442168,1088
+159,"Ricaldoni, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8525727,-56.2005685,5.945597037364088,1253
+160,"Ricaldoni, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8485567,-56.233298,8.44226205246968,1418
+161,"Ricaldoni, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8819445,-56.1812809,2.4197972368629412,1088
+162,"Ricaldoni, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.9009529,-56.1352843,2.3155069862764828,1033
+163,"Ricaldoni, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8938637,-56.1591115,-34.8889171,-56.1212496,3.504141221774865,423
+164,"Doctor Alberto Zubiría, Montevideo Uruguay","Adolfo berro, Montevideo Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8642481,-56.2077112,2.695842126730609,1033
+165,"Doctor Alberto Zubiría, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8029901,-56.1143293,8.441940247682938,1528
+166,"Doctor Alberto Zubiría, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.901975,-56.1895067,6.499964021926679,1253
+167,"Doctor Alberto Zubiría, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8681349,-56.1491542,4.818257763440048,588
+168,"Doctor Alberto Zubiría, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8535167,-56.2452851,4.955944664326704,1143
+169,"Doctor Alberto Zubiría, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8700236,-56.0694155,11.635188796399511,1637
+170,"Doctor Alberto Zubiría, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8542084,-56.1264252,6.1593758715519975,753
+171,"Doctor Alberto Zubiría, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.9153352,-56.1673733,8.300415252591248,1418
+172,"Doctor Alberto Zubiría, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8988864,-56.1440372,7.580926993094004,1308
+173,"Doctor Alberto Zubiría, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8902774,-56.1800759,5.319103932236799,588
+174,"Doctor Alberto Zubiría, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8562398,-56.1393665,5.062084753547812,643
+175,"Doctor Alberto Zubiría, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8525727,-56.2005685,1.2541207951998439,924
+176,"Doctor Alberto Zubiría, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8485567,-56.233298,3.7749245439791053,1088
+177,"Doctor Alberto Zubiría, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8819445,-56.1812809,4.393379807970571,1143
+178,"Doctor Alberto Zubiría, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.9009529,-56.1352843,8.250729553854454,1363
+179,"Doctor Alberto Zubiría, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8434359,-56.1924935,-34.8889171,-56.1212496,8.239788601999264,1308
+180,"Adolfo berro, Montevideo Uruguay","Los Nogales, Montevideo Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8029901,-56.1143293,10.915437622993213,753
+181,"Adolfo berro, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.901975,-56.1895067,4.504095683928287,1088
+182,"Adolfo berro, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8681349,-56.1491542,5.3715833550395935,1198
+183,"Adolfo berro, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8535167,-56.2452851,3.6363386664519917,1198
+184,"Adolfo berro, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8700236,-56.0694155,12.661355279993716,1582
+185,"Adolfo berro, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8542084,-56.1264252,7.516117615799085,1308
+186,"Adolfo berro, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.9153352,-56.1673733,6.761441560069694,1308
+187,"Adolfo berro, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8988864,-56.1440372,6.975030385828236,698
+188,"Adolfo berro, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8902774,-56.1800759,3.8369122079224263,1088
+189,"Adolfo berro, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8562398,-56.1393665,6.312483433803153,588
+190,"Adolfo berro, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8525727,-56.2005685,1.450615480261108,979
+191,"Adolfo berro, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8485567,-56.233298,2.91636115297804,478
+192,"Adolfo berro, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8819445,-56.1812809,3.1134582100648416,1033
+193,"Adolfo berro, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.9009529,-56.1352843,7.77306661826786,1363
+194,"Adolfo berro, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8642481,-56.2077112,-34.8889171,-56.1212496,8.365097728160734,1308
+195,"Los Nogales, Montevideo Uruguay","Paysandú, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.901975,-56.1895067,12.955816359517849,918
+196,"Los Nogales, Montevideo Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8681349,-56.1491542,7.897891301998614,1637
+197,"Los Nogales, Montevideo Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8535167,-56.2452851,13.226149404785405,1198
+198,"Los Nogales, Montevideo Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8700236,-56.0694155,8.495860946699041,2077
+199,"Los Nogales, Montevideo Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8542084,-56.1264252,5.788764639458012,1802
+200,"Los Nogales, Montevideo Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.9153352,-56.1673733,13.373962930317818,1747
+201,"Los Nogales, Montevideo Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8988864,-56.1440372,10.979971861048659,1747
+202,"Los Nogales, Montevideo Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8902774,-56.1800759,11.398521077988946,1528
+203,"Los Nogales, Montevideo Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8562398,-56.1393665,6.3358357146795266,1082
+204,"Los Nogales, Montevideo Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8525727,-56.2005685,9.61736761861074,1418
+205,"Los Nogales, Montevideo Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8485567,-56.233298,12.000078788220273,1143
+206,"Los Nogales, Montevideo Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8819445,-56.1812809,10.687311310902034,1473
+207,"Los Nogales, Montevideo Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.9009529,-56.1352843,11.035454164771116,1802
+208,"Los Nogales, Montevideo Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8029901,-56.1143293,-34.8889171,-56.1212496,9.553537287863177,1802
+209,"Paysandú, Montevideo, Uruguay","Himalaya, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8681349,-56.1491542,5.26321157359531,1143
+210,"Paysandú, Montevideo, Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8535167,-56.2452851,7.409771137285997,753
+211,"Paysandú, Montevideo, Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8700236,-56.0694155,11.536155514852434,1473
+212,"Paysandú, Montevideo, Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8542084,-56.1264252,7.832027727287007,698
+213,"Paysandú, Montevideo, Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.9153352,-56.1673733,2.507663329141372,1033
+214,"Paysandú, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8988864,-56.1440372,4.1699506736948635,1143
+215,"Paysandú, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8902774,-56.1800759,1.5579228154074074,369
+216,"Paysandú, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8562398,-56.1393665,6.837815989700319,1308
+217,"Paysandú, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8525727,-56.2005685,5.573134886119786,1198
+218,"Paysandú, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8485567,-56.233298,7.15182233120479,698
+219,"Paysandú, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8819445,-56.1812809,2.345918770282247,979
+220,"Paysandú, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,,,,,,
+221,"Paysandú, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.901975,-56.1895067,-34.8889171,-56.1212496,6.404951337902807,1198
+222,"Himalaya, Montevideo, Uruguay","Carlos Tellier, Montevideo, Uruguay",small,express,2,1,,,,,,
+223,"Himalaya, Montevideo, Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8700236,-56.0694155,7.293785014024957,1308
+224,"Himalaya, Montevideo, Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8542084,-56.1264252,2.589720388825512,1033
+225,"Himalaya, Montevideo, Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.9153352,-56.1673733,5.494786606175113,1198
+226,"Himalaya, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8988864,-56.1440372,3.4434449847462405,1088
+227,"Himalaya, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8902774,-56.1800759,3.7450871988238887,478
+228,"Himalaya, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8562398,-56.1393665,1.5944949015751693,979
+229,"Himalaya, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8525727,-56.2005685,5.008441048886881,1198
+230,"Himalaya, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8485567,-56.233298,7.995216956185032,753
+231,"Himalaya, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8819445,-56.1812809,3.312769106320536,1088
+232,"Himalaya, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.9009529,-56.1352843,3.855246219884912,1143
+233,"Himalaya, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8681349,-56.1491542,-34.8889171,-56.1212496,3.438565846522859,423
+234,"Carlos Tellier, Montevideo, Uruguay","Cooper, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8700236,-56.0694155,16.18569083520953,1912
+235,"Carlos Tellier, Montevideo, Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8542084,-56.1264252,10.870028602343755,1637
+236,"Carlos Tellier, Montevideo, Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.9153352,-56.1673733,9.887445137057732,1528
+237,"Carlos Tellier, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8988864,-56.1440372,10.536543418670899,1582
+238,"Carlos Tellier, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8902774,-56.1800759,7.223432094678465,1308
+239,"Carlos Tellier, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8562398,-56.1393665,9.690864541772175,1528
+240,"Carlos Tellier, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8525727,-56.2005685,4.0907219667199035,1088
+241,"Carlos Tellier, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8485567,-56.233298,1.2266061376755404,924
+242,"Carlos Tellier, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8819445,-56.1812809,6.647886131987248,698
+243,"Carlos Tellier, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.9009529,-56.1352843,11.350416512504975,1637
+244,"Carlos Tellier, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8535167,-56.2452851,-34.8889171,-56.1212496,12.001436219852733,1637
+245,"Cooper, Montevideo, Uruguay","Oyarvide, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8542084,-56.1264252,5.500357948168675,1253
+246,"Cooper, Montevideo, Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.9153352,-56.1673733,10.268580254674522,1473
+247,"Cooper, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8988864,-56.1440372,7.535750896786997,1308
+248,"Cooper, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8902774,-56.1800759,10.363210149661159,1473
+249,"Cooper, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8562398,-56.1393665,6.57655823754278,698
+250,"Cooper, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8525727,-56.2005685,12.148137685508347,1637
+251,"Cooper, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8485567,-56.233298,15.174142924529349,1802
+252,"Cooper, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8819445,-56.1812809,10.312520240167983,1582
+253,"Cooper, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.9009529,-56.1352843,6.930426670911275,1253
+254,"Cooper, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8700236,-56.0694155,-34.8889171,-56.1212496,5.18162114931467,1143
+255,"Oyarvide, Montevideo, Uruguay","Avenida Sarmiento, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.9153352,-56.1673733,7.745874801211588,1418
+256,"Oyarvide, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8988864,-56.1440372,5.211486007041041,1253
+257,"Oyarvide, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8902774,-56.1800759,6.330336978109138,1253
+258,"Oyarvide, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8562398,-56.1393665,1.2047303953341981,924
+259,"Oyarvide, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8525727,-56.2005685,6.782883888362387,1363
+260,"Oyarvide, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8485567,-56.233298,9.79391867399953,1528
+261,"Oyarvide, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8819445,-56.1812809,5.884311944966702,1253
+262,"Oyarvide, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.9009529,-56.1352843,5.248625338686956,1198
+263,"Oyarvide, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8542084,-56.1264252,-34.8889171,-56.1212496,3.87948993857332,1088
+264,"Avenida Sarmiento, Montevideo, Uruguay","Líber Arce, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8988864,-56.1440372,2.806850090470041,1033
+265,"Avenida Sarmiento, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8902774,-56.1800759,3.012571693648101,1033
+266,"Avenida Sarmiento, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8562398,-56.1393665,7.038135141032665,698
+267,"Avenida Sarmiento, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8525727,-56.2005685,7.595329523651229,1363
+268,"Avenida Sarmiento, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8485567,-56.233298,9.55012765771578,1418
+269,"Avenida Sarmiento, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8819445,-56.1812809,3.9163571042192276,1143
+270,"Avenida Sarmiento, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.9009529,-56.1352843,3.338567969841463,1033
+271,"Avenida Sarmiento, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.9153352,-56.1673733,-34.8889171,-56.1212496,5.1342427775965,1198
+272,"Líber Arce, Montevideo, Uruguay","Hocquart, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8902774,-56.1800759,3.429780064263319,1088
+273,"Líber Arce, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8562398,-56.1393665,4.750373950927094,1198
+274,"Líber Arce, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8525727,-56.2005685,7.287751288039386,1308
+275,"Líber Arce, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8485567,-56.233298,9.888200272482823,1473
+276,"Líber Arce, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8819445,-56.1812809,3.8887968042890164,1143
+277,"Líber Arce, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.9009529,-56.1352843,0.8322081599861092,924
+278,"Líber Arce, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8988864,-56.1440372,-34.8889171,-56.1212496,2.3583358467043576,1033
+279,"Hocquart, Montevideo, Uruguay","Ignacio Barrios, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.8562398,-56.1393665,5.302080712854402,588
+280,"Hocquart, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.8525727,-56.2005685,4.583357474853666,1198
+281,"Hocquart, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.8485567,-56.233298,6.715853279227761,1253
+282,"Hocquart, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.8819445,-56.1812809,0.9309791136842975,924
+283,"Hocquart, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.9009529,-56.1352843,4.2619854386001075,1143
+284,"Hocquart, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8902774,-56.1800759,-34.8889171,-56.1212496,5.379465237546891,1143
+285,"Ignacio Barrios, Montevideo, Uruguay","Escalada, Montevideo, Uruguay",small,express,2,1,-34.8562398,-56.1393665,-34.8525727,-56.2005685,5.611662316045873,643
+286,"Ignacio Barrios, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8562398,-56.1393665,-34.8485567,-56.233298,8.632386441798182,808
+287,"Ignacio Barrios, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8562398,-56.1393665,-34.8819445,-56.1812809,4.7769119590825095,1143
+288,"Ignacio Barrios, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8562398,-56.1393665,-34.9009529,-56.1352843,4.974417350454219,1198
+289,"Ignacio Barrios, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8562398,-56.1393665,-34.8889171,-56.1212496,3.985664679869426,1088
+290,"Escalada, Montevideo, Uruguay","Fernando Torres, Montevideo, Uruguay",small,express,2,1,-34.8525727,-56.2005685,-34.8485567,-56.233298,3.0262132326331717,1033
+291,"Escalada, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8525727,-56.2005685,-34.8819445,-56.1812809,3.7050896771714177,1088
+292,"Escalada, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8525727,-56.2005685,-34.9009529,-56.1352843,8.02690282806304,1418
+293,"Escalada, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8525727,-56.2005685,-34.8889171,-56.1212496,8.297706635006787,1363
+294,"Fernando Torres, Montevideo, Uruguay","Carlos Reyles, Montevideo, Uruguay",small,express,2,1,-34.8485567,-56.233298,-34.8819445,-56.1812809,6.028433853143577,1198
+295,"Fernando Torres, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8485567,-56.233298,-34.9009529,-56.1352843,10.681261672494866,1582
+296,"Fernando Torres, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8485567,-56.233298,-34.8889171,-56.1212496,11.180702613644218,1528
+297,"Carlos Reyles, Montevideo, Uruguay","Rizal, Montevideo, Uruguay",small,express,2,1,-34.8819445,-56.1812809,-34.9009529,-56.1352843,4.703675959361232,1198
+298,"Carlos Reyles, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.8819445,-56.1812809,-34.8889171,-56.1212496,5.54202319198775,643
+299,"Rizal, Montevideo, Uruguay","Chamizo, Montevideo, Uruguay",small,express,2,1,-34.9009529,-56.1352843,-34.8889171,-56.1212496,1.851627889083508,924
